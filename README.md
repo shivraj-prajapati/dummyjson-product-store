@@ -10,9 +10,6 @@ Welcome to the **DummyJSON Product Store**! This is a modern product listing app
 - Products dynamically update based on the selected category.
 - Beautiful, modern UI using Tailwind CSS for styling.
 
-## 🚀 Demo
-
-Check out the live demo at [dummyjson-product-store](https://github.com/shivraj-prajapati/dummyjson-product-store).
 
 ## 🛠️ Tech Stack
 
